@@ -30,7 +30,7 @@ public:
 
 	//! \brief Удаляет пару "ключ-значение".
 	//! \param key Ключ.
-	void RemoveKeyValue(std::string key);
+	bool RemoveKeyValue(std::string key);
 
 	//! \brief Проверяет есть ли ключ в словаре.
 	//! \param key Ключ.

@@ -72,15 +72,15 @@ void IODictionary::RunMenu()
             case 2:
             {
                 string key = InputStringWithMessage("Enter the key: ");
-                try
+                if (dictionary->RemoveKeyValue(key))
                 {
-                    dictionary->RemoveKeyValue(key);
                     cout << "Element was excluded.\n";
                 }
-                catch (const exception& e)
+                else
                 {
-                    cerr << "Error: " << e.what() << '\n';
+                    cout << "No element with this key was found.\n";
                 }
+
                 break;
             }
             case 3:
@@ -89,7 +89,7 @@ void IODictionary::RunMenu()
                 try
                 {
                     int result = dictionary->GetValue(key);
-                    cout << "Value with this key is " << result << '\n';
+                    cout << "Value with of this key is " << result << ".\n";
                 }
                 catch (const exception& e)
                 {
