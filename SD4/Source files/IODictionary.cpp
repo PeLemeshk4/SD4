@@ -49,7 +49,7 @@ void IODictionary::RunMenu()
         "Find value by key",
         "Display current state",
         "Clear dictionary",
-        "Demonstration scenarios",
+        "Resize",
         "Exit"
     };
     int size = sizeof(dictionaryMenu) / sizeof(dictionaryMenu[0]);
@@ -111,7 +111,8 @@ void IODictionary::RunMenu()
             }
             case 6:
             {
-
+                HashTable* table = dictionary->GetHashTable();
+                table->Resize(table->GetCapacity() * 2);
 
                 break;
             }

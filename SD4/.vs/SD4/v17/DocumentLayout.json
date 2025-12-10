@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:Source files\\IODictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\Dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:Source files\\Dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\HashTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:Source files\\HashTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\IODictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:Header files\\IODictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\Dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:Source files\\Dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:Header files\\Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\SD4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:SD4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\Services.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:Header files\\Services.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\IODictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:Header files\\IODictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\Services.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\KeyValuePair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:Header files\\KeyValuePair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\SD4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7F4EA37-C23C-4B0C-8D1A-3C68BB24CCAF}|SD4.vcxproj|solutionrelative:SD4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Services.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\Services.h",
               "RelativeDocumentMoniker": "Header files\\Services.h",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "Header files\\Services.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-08T10:34:25.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T10:34:25.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Services.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\Services.cpp",
               "RelativeDocumentMoniker": "Source files\\Services.cpp",
@@ -97,14 +96,14 @@
               "RelativeDocumentMoniker": "Source files\\IODictionary.cpp",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\IODictionary.cpp",
               "RelativeToolTip": "Source files\\IODictionary.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-07T12:13:56.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IODictionary.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\IODictionary.h",
               "RelativeDocumentMoniker": "Header files\\IODictionary.h",
@@ -112,11 +111,12 @@
               "RelativeToolTip": "Header files\\IODictionary.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-07T12:13:44.016Z"
+              "WhenOpened": "2025-12-07T12:13:44.016Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Dictionary.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\Dictionary.cpp",
               "RelativeDocumentMoniker": "Source files\\Dictionary.cpp",
@@ -129,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Dictionary.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\Dictionary.h",
               "RelativeDocumentMoniker": "Header files\\Dictionary.h",
@@ -142,20 +142,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HashTable.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\HashTable.cpp",
               "RelativeDocumentMoniker": "Source files\\HashTable.cpp",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\HashTable.cpp",
               "RelativeToolTip": "Source files\\HashTable.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAMAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-07T09:05:49.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "HashTable.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\HashTable.h",
               "RelativeDocumentMoniker": "Header files\\HashTable.h",
@@ -163,12 +163,11 @@
               "RelativeToolTip": "Header files\\HashTable.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-07T09:04:58.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T09:04:58.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "KeyValuePair.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Source files\\KeyValuePair.cpp",
               "RelativeDocumentMoniker": "Source files\\KeyValuePair.cpp",
@@ -180,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "KeyValuePair.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\Header files\\KeyValuePair.h",
               "RelativeDocumentMoniker": "Header files\\KeyValuePair.h",
@@ -192,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "SD4.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\SD4\\SD4\\SD4.cpp",
               "RelativeDocumentMoniker": "SD4.cpp",
@@ -200,7 +199,8 @@
               "RelativeToolTip": "SD4.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-07T08:56:07.809Z"
+              "WhenOpened": "2025-12-07T08:56:07.809Z",
+              "EditorCaption": ""
             }
           ]
         },

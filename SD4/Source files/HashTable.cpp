@@ -190,7 +190,7 @@ int HashTable::HashFunction(const char* key)
 
 
     unsigned char hash = 0;
-    for (const char* c = key; *c; ++c)
+    for (const char* c = key; *c; c++)
     {
         unsigned char byte = static_cast<unsigned char>(*c);
         hash = pearsonTable[(hash + byte) % 256]; 
